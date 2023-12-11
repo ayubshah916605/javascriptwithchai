@@ -23,5 +23,17 @@ let valueInNumber = Number(score)
 
 let someNumber = 23 // now number is string
 let stringNumber = String(someNumber)
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
+
+// *******************operations*****************
+let str1 = "hello"
+let str2 = " Ayub"
+let str3 = str1 + str2
+// console.log(str3);
+// console.log("1" + 2);
+// console.log(1 + "2");
+// console.log("1" + 1 + 1);
+let gameCounter = 100
+gameCounter++;
+console.log(gameCounter);
