@@ -30,5 +30,5 @@ const Employee = {
 // console.log(Employee)
 const Profile ={
     useName: "Ayub shah",
-    followers: 
+    followers: false
 }
