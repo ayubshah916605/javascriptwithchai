@@ -1,0 +1,8 @@
+#patternOutput {
+    display: flex;
+    color: green;
+    background-color: rgb(186, 216, 220);
+    font-size:25px;
+    justify-content: center;
+    
+}
